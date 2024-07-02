@@ -1,2 +1,2 @@
 # wpu-resolusi
-Repo untuk menyimpan rencana
+Repo untuk menyimpan rencana exselente
