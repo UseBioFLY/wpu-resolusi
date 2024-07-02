@@ -2,7 +2,11 @@ RENCANA KONTEN WPU
 - javascript 
 == ES6
 == framework javascript
+ = belajar vue
+ = belajar react juga
 
 - struktur data dasar
+== laravel
 - interview
 - vlogs
+- materi python
