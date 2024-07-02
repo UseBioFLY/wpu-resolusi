@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 == ES6
 == framework javascript
  = belajar vue
+ = belajar react juga
 
 - struktur data dasar
 == laravel
